@@ -1,6 +1,7 @@
-To Use please put the Youtube url into the text box then click enter
-it will show up on the top showing that it has been registered. Next
-click the download button to start the download.
+To Use please open YTdownload.exe NOT yt-dlp.exe.
+After it has been opened please put the Youtube url into the text box
+then click enter it will show up on the top showing that it has been registered.
+Next click the download button to start the download.
 
 License:
 
